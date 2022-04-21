@@ -329,14 +329,6 @@ h3{
    
 }
 
-
-.contenido li:hover{
-    background-color: #f1f1f1;
-}
-
-.boton:hover.contenido {
-    display:block;
-}
 .locacion{
     padding-top: 400px;
     margin-left: 80px;
